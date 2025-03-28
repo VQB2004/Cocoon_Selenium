@@ -37,3 +37,42 @@ D:\Cocoon_Selenium_AnBao\Cocoon_Selenium_AnBao\Cocoon_Selenium_AnBao\obj\Debug\C
 D:\Cocoon_Selenium_AnBao\Cocoon_Selenium_AnBao\Cocoon_Selenium_AnBao\obj\Debug\Cocoon_S.EEDC9F3C.Up2Date
 D:\Cocoon_Selenium_AnBao\Cocoon_Selenium_AnBao\Cocoon_Selenium_AnBao\obj\Debug\Cocoon_Selenium_AnBao.dll
 D:\Cocoon_Selenium_AnBao\Cocoon_Selenium_AnBao\Cocoon_Selenium_AnBao\obj\Debug\Cocoon_Selenium_AnBao.pdb
+G:\Kiem thu pm\BaiTapLon\Cocoon_Selenium_AnBao\Cocoon_Selenium_AnBao\Cocoon_Selenium_AnBao\bin\Debug\selenium-manager\linux\selenium-manager
+G:\Kiem thu pm\BaiTapLon\Cocoon_Selenium_AnBao\Cocoon_Selenium_AnBao\Cocoon_Selenium_AnBao\bin\Debug\selenium-manager\macos\selenium-manager
+G:\Kiem thu pm\BaiTapLon\Cocoon_Selenium_AnBao\Cocoon_Selenium_AnBao\Cocoon_Selenium_AnBao\bin\Debug\selenium-manager\windows\selenium-manager.exe
+G:\Kiem thu pm\BaiTapLon\Cocoon_Selenium_AnBao\Cocoon_Selenium_AnBao\Cocoon_Selenium_AnBao\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+G:\Kiem thu pm\BaiTapLon\Cocoon_Selenium_AnBao\Cocoon_Selenium_AnBao\Cocoon_Selenium_AnBao\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+G:\Kiem thu pm\BaiTapLon\Cocoon_Selenium_AnBao\Cocoon_Selenium_AnBao\Cocoon_Selenium_AnBao\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+G:\Kiem thu pm\BaiTapLon\Cocoon_Selenium_AnBao\Cocoon_Selenium_AnBao\Cocoon_Selenium_AnBao\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+G:\Kiem thu pm\BaiTapLon\Cocoon_Selenium_AnBao\Cocoon_Selenium_AnBao\Cocoon_Selenium_AnBao\bin\Debug\Cocoon_Selenium_AnBao.dll.config
+G:\Kiem thu pm\BaiTapLon\Cocoon_Selenium_AnBao\Cocoon_Selenium_AnBao\Cocoon_Selenium_AnBao\bin\Debug\Cocoon_Selenium_AnBao.dll
+G:\Kiem thu pm\BaiTapLon\Cocoon_Selenium_AnBao\Cocoon_Selenium_AnBao\Cocoon_Selenium_AnBao\bin\Debug\Cocoon_Selenium_AnBao.pdb
+G:\Kiem thu pm\BaiTapLon\Cocoon_Selenium_AnBao\Cocoon_Selenium_AnBao\Cocoon_Selenium_AnBao\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Kiem thu pm\BaiTapLon\Cocoon_Selenium_AnBao\Cocoon_Selenium_AnBao\Cocoon_Selenium_AnBao\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+G:\Kiem thu pm\BaiTapLon\Cocoon_Selenium_AnBao\Cocoon_Selenium_AnBao\Cocoon_Selenium_AnBao\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+G:\Kiem thu pm\BaiTapLon\Cocoon_Selenium_AnBao\Cocoon_Selenium_AnBao\Cocoon_Selenium_AnBao\bin\Debug\System.Buffers.dll
+G:\Kiem thu pm\BaiTapLon\Cocoon_Selenium_AnBao\Cocoon_Selenium_AnBao\Cocoon_Selenium_AnBao\bin\Debug\System.Memory.dll
+G:\Kiem thu pm\BaiTapLon\Cocoon_Selenium_AnBao\Cocoon_Selenium_AnBao\Cocoon_Selenium_AnBao\bin\Debug\System.Numerics.Vectors.dll
+G:\Kiem thu pm\BaiTapLon\Cocoon_Selenium_AnBao\Cocoon_Selenium_AnBao\Cocoon_Selenium_AnBao\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\Kiem thu pm\BaiTapLon\Cocoon_Selenium_AnBao\Cocoon_Selenium_AnBao\Cocoon_Selenium_AnBao\bin\Debug\System.Text.Encodings.Web.dll
+G:\Kiem thu pm\BaiTapLon\Cocoon_Selenium_AnBao\Cocoon_Selenium_AnBao\Cocoon_Selenium_AnBao\bin\Debug\System.Text.Json.dll
+G:\Kiem thu pm\BaiTapLon\Cocoon_Selenium_AnBao\Cocoon_Selenium_AnBao\Cocoon_Selenium_AnBao\bin\Debug\System.Threading.Tasks.Extensions.dll
+G:\Kiem thu pm\BaiTapLon\Cocoon_Selenium_AnBao\Cocoon_Selenium_AnBao\Cocoon_Selenium_AnBao\bin\Debug\System.ValueTuple.dll
+G:\Kiem thu pm\BaiTapLon\Cocoon_Selenium_AnBao\Cocoon_Selenium_AnBao\Cocoon_Selenium_AnBao\bin\Debug\WebDriver.dll
+G:\Kiem thu pm\BaiTapLon\Cocoon_Selenium_AnBao\Cocoon_Selenium_AnBao\Cocoon_Selenium_AnBao\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+G:\Kiem thu pm\BaiTapLon\Cocoon_Selenium_AnBao\Cocoon_Selenium_AnBao\Cocoon_Selenium_AnBao\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+G:\Kiem thu pm\BaiTapLon\Cocoon_Selenium_AnBao\Cocoon_Selenium_AnBao\Cocoon_Selenium_AnBao\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+G:\Kiem thu pm\BaiTapLon\Cocoon_Selenium_AnBao\Cocoon_Selenium_AnBao\Cocoon_Selenium_AnBao\bin\Debug\System.Buffers.xml
+G:\Kiem thu pm\BaiTapLon\Cocoon_Selenium_AnBao\Cocoon_Selenium_AnBao\Cocoon_Selenium_AnBao\bin\Debug\System.Memory.xml
+G:\Kiem thu pm\BaiTapLon\Cocoon_Selenium_AnBao\Cocoon_Selenium_AnBao\Cocoon_Selenium_AnBao\bin\Debug\System.Numerics.Vectors.xml
+G:\Kiem thu pm\BaiTapLon\Cocoon_Selenium_AnBao\Cocoon_Selenium_AnBao\Cocoon_Selenium_AnBao\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+G:\Kiem thu pm\BaiTapLon\Cocoon_Selenium_AnBao\Cocoon_Selenium_AnBao\Cocoon_Selenium_AnBao\bin\Debug\System.Text.Encodings.Web.xml
+G:\Kiem thu pm\BaiTapLon\Cocoon_Selenium_AnBao\Cocoon_Selenium_AnBao\Cocoon_Selenium_AnBao\bin\Debug\System.Text.Json.xml
+G:\Kiem thu pm\BaiTapLon\Cocoon_Selenium_AnBao\Cocoon_Selenium_AnBao\Cocoon_Selenium_AnBao\bin\Debug\System.Threading.Tasks.Extensions.xml
+G:\Kiem thu pm\BaiTapLon\Cocoon_Selenium_AnBao\Cocoon_Selenium_AnBao\Cocoon_Selenium_AnBao\bin\Debug\System.ValueTuple.xml
+G:\Kiem thu pm\BaiTapLon\Cocoon_Selenium_AnBao\Cocoon_Selenium_AnBao\Cocoon_Selenium_AnBao\bin\Debug\WebDriver.xml
+G:\Kiem thu pm\BaiTapLon\Cocoon_Selenium_AnBao\Cocoon_Selenium_AnBao\Cocoon_Selenium_AnBao\obj\Debug\Cocoon_Selenium_AnBao.csproj.AssemblyReference.cache
+G:\Kiem thu pm\BaiTapLon\Cocoon_Selenium_AnBao\Cocoon_Selenium_AnBao\Cocoon_Selenium_AnBao\obj\Debug\Cocoon_Selenium_AnBao.csproj.CoreCompileInputs.cache
+G:\Kiem thu pm\BaiTapLon\Cocoon_Selenium_AnBao\Cocoon_Selenium_AnBao\Cocoon_Selenium_AnBao\obj\Debug\Cocoon_Selenium_AnBao.csproj.CopyComplete
+G:\Kiem thu pm\BaiTapLon\Cocoon_Selenium_AnBao\Cocoon_Selenium_AnBao\Cocoon_Selenium_AnBao\obj\Debug\Cocoon_Selenium_AnBao.dll
+G:\Kiem thu pm\BaiTapLon\Cocoon_Selenium_AnBao\Cocoon_Selenium_AnBao\Cocoon_Selenium_AnBao\obj\Debug\Cocoon_Selenium_AnBao.pdb

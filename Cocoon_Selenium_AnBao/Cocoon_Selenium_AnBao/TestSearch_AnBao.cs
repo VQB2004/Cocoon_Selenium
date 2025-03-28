@@ -15,7 +15,7 @@ namespace Cocoon_Selenium_AnBao
         [TestMethod]
         // Case1: Tìm thấy sản phẩm có chứa từ khóa
         // Khi nhập từ khóa sẽ nhận được các sản phẩm liên quan
-        public void Test_Search_Case1_AnBao()
+        public void TC9_TestSearch_AnBao()
         {
             IWebDriver driver_AnBao = new ChromeDriver();
             driver_AnBao.Navigate().GoToUrl("https://cocoonvietnam.com/");
@@ -56,7 +56,7 @@ namespace Cocoon_Selenium_AnBao
         [TestMethod]
         // Case2: Không tìm thấy sản phẩm có chứa từ khóa truyền vào
         // Khi truyền vào từ khóa sẽ không nhận được các sản phẩm liên quan
-        public void Test_Search_Case2_AnBao()
+        public void TC10_TestSearch_AnBao()
         {
             IWebDriver driver_AnBao = new ChromeDriver();
             driver_AnBao.Navigate().GoToUrl("https://cocoonvietnam.com/");

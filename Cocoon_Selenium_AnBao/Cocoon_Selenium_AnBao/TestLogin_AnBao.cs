@@ -13,7 +13,7 @@ namespace Cocoon_Selenium_AnBao
         [TestMethod]
         // Nhập đúng số điện thoại và password
         // Login vào được 
-        public void Test_Login__Case1_AnBao()
+        public void TC6_TestLogin_AnBao()
         {
             // SDT: 0326929359
             // pass: Bao12345@
@@ -66,7 +66,7 @@ namespace Cocoon_Selenium_AnBao
         // Nhập đúng số điện thoại
         // Sai password
         // Tìm thấy thông báo: sai mật khẩu hoặc password
-        public void Test_Login__Case2_AnBao()
+        public void TC7_TestLogin_AnBao()
         {
             // SDT: 0326929359
             // pass: Bao12345@
@@ -118,7 +118,7 @@ namespace Cocoon_Selenium_AnBao
         [TestMethod]
         // Không nhập số điện thoại vào ô
         // Tìm thấy thông báo: vui lòng nhập số điện thoại hợp lệ
-        public void Test_Login__Case3_AnBao()
+        public void TC8_TestLogin_AnBao()
         {
             // SDT: 0326929359
             // pass: Bao12345@

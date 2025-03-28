@@ -81,6 +81,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="TestAddToCart_AnBao.cs" />
+    <Compile Include="TestClickLink_AnBao.cs" />
     <Compile Include="TestLogin_AnBao.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TestSearch_AnBao.cs" />
