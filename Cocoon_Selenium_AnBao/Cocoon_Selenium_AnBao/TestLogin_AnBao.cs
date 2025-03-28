@@ -116,7 +116,7 @@ namespace Cocoon_Selenium_AnBao
         }
 
         [TestMethod]
-        // Không nhập số điện thoại
+        // Không nhập số điện thoại vào ô
         // Tìm thấy thông báo: vui lòng nhập số điện thoại hợp lệ
         public void Test_Login__Case3_AnBao()
         {

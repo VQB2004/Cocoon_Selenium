@@ -71,7 +71,7 @@ namespace Cocoon_Selenium_AnBao
             // bắt place holder tìm kiếm ==> truyền từ khóa vào
             IWebElement input_AnBao = driver_AnBao.FindElement(By.CssSelector("#__layout > div > header > div:nth-child(2) > div.hidden.lg" +
                 "\\:block > nav > div:nth-child(2) > div > div > form > div > div > input"));
-            input_AnBao.SendKeys("aaa");
+            input_AnBao.SendKeys("aaaa");
 
 
             string mess_AnBao  = "";
