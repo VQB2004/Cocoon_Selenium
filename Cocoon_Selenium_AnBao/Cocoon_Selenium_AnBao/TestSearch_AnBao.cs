@@ -24,8 +24,8 @@ namespace Cocoon_Selenium_AnBao
             IWebElement search_AnBao = driver_AnBao.FindElement(By.XPath("//*[@id=\"navbar\"]/div[3]/nav/div[1]/div/div"));
 
             search_AnBao.Click();
-
-            Thread.Sleep(1000); // phải chờ để nhận element bên dưới
+            // phải chờ để nhận element bên dưới
+            Thread.Sleep(1000); 
 
             // bắt place holder tìm kiếm ==> truyền từ khóa vào
             IWebElement input_AnBao = driver_AnBao.FindElement(By.CssSelector("#__layout > div > header > div:nth-child(2) > div.hidden.lg" +
@@ -65,8 +65,8 @@ namespace Cocoon_Selenium_AnBao
             IWebElement search_AnBao = driver_AnBao.FindElement(By.XPath("//*[@id=\"navbar\"]/div[3]/nav/div[1]/div/div"));
 
             search_AnBao.Click();
-
-            Thread.Sleep(1000); // phải chờ để nhận element bên dưới
+            // phải chờ để nhận element bên dưới
+            Thread.Sleep(1000); 
 
             // bắt place holder tìm kiếm ==> truyền từ khóa vào
             IWebElement input_AnBao = driver_AnBao.FindElement(By.CssSelector("#__layout > div > header > div:nth-child(2) > div.hidden.lg" +

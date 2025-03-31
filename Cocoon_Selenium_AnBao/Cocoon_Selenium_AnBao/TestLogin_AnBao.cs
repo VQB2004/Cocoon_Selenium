@@ -65,7 +65,7 @@ namespace Cocoon_Selenium_AnBao
         [TestMethod]
         // Nhập đúng số điện thoại
         // Sai password
-        // Tìm thấy thông báo: sai mật khẩu hoặc password
+        // Tìm thấy thông báo: Tài khoản không tồn tại hoặc sai mật khẩu.
         public void TC7_TestLogin_AnBao()
         {
             // SDT: 0326929359
@@ -86,15 +86,16 @@ namespace Cocoon_Selenium_AnBao
             IWebElement password_AnBao = driver_AnBao.FindElement(By.CssSelector("#__layout > div > header > div:nth-child(5)" +
                 " > div > div > form > div:nth-child(5) > div > input"));
             password_AnBao.SendKeys("Bao12345");
-            Thread.Sleep(1000); // quan sát dữ liệu được điền
+            // quan sát dữ liệu được điền
+            Thread.Sleep(1000); 
 
             // tìm button đăng nhập ==> Click
             IWebElement button_AnBao = driver_AnBao.FindElement(By.CssSelector("#__layout > div > header > div:nth-child(5) > " +
                 "div > div > form > button"));
 
             button_AnBao.Click();
-
-            Thread.Sleep(1000); // chờ để bắt element bên dưới
+            // chờ để bắt element bên dưới
+            Thread.Sleep(1000); 
 
 
             try
@@ -138,15 +139,16 @@ namespace Cocoon_Selenium_AnBao
             IWebElement password_AnBao = driver_AnBao.FindElement(By.CssSelector("#__layout > div > header > div:nth-child(5)" +
                 " > div > div > form > div:nth-child(5) > div > input"));
             password_AnBao.SendKeys("Bao12345");
-            Thread.Sleep(1000); // quan sát dữ liệu được điền
+            // quan sát dữ liệu được điền
+            Thread.Sleep(1000); 
 
             // tìm button đăng nhập ==> Click
             IWebElement button_AnBao = driver_AnBao.FindElement(By.CssSelector("#__layout > div > header > div:nth-child(5) > " +
                 "div > div > form > button"));
 
             button_AnBao.Click();
-
-            Thread.Sleep(1000); // chờ để bắt element bên dưới
+            // chờ để bắt element bên dưới
+            Thread.Sleep(1000); 
 
 
             try

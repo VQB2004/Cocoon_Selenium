@@ -105,7 +105,8 @@ namespace Cocoon_Selenium_AnBao
             // Khởi tạo trình duyệt
             IWebDriver driver_AnBao = new ChromeDriver();
             driver_AnBao.Navigate().GoToUrl("https://cocoonvietnam.com/");
-            Thread.Sleep(3000); // Chờ trang tải xong
+            // Chờ trang tải xong
+            Thread.Sleep(3000); 
 
             try
             {
