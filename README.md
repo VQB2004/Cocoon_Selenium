@@ -1,14 +1,13 @@
 # Selenium C# Automation Test - Cocoon Website
 
-## 📌 Giới thiệu
-Dự án này là một bộ **test automation** sử dụng **Selenium WebDriver với C#** để kiểm thử các chức năng chính của website **Cocoon**.  
-Hiện tại, dự án tập trung vào các chức năng quan trọng:
+## 📌 Introduction
+This project is an **automation testing suite** built with **Selenium WebDriver and C#** to verify the core functionalities of the **Cocoon** website.  
+Currently, the project focuses on key features:
 - 🔑 **Login**  
 - 🔍 **Search**  
 - 🛒 **Add to Cart**  
-- 🔗 **Click Link (liên kết điều hướng)**  
+- 🔗 **Click Link (navigation links)**  
 
-Mục tiêu của project:
-- Thực hành **automation testing** với Selenium + NUnit.
-- Xây dựng **Page Object Model (POM)** để quản lý code gọn gàng, dễ mở rộng.
-- Hỗ trợ kiểm thử **regression** nhanh chóng, chính xác.
+Project goals:
+- Practice **automation testing** using Selenium + NUnit.  
+- Support fast and accurate **regression testing**.  
