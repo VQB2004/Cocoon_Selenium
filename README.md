@@ -1,4 +1,4 @@
-# 🐞 Selenium C# Automation Test - Cocoon Website
+# Selenium C# Automation Test - Cocoon Website
 
 ## 📌 Giới thiệu
 Dự án này là một bộ **test automation** sử dụng **Selenium WebDriver với C#** để kiểm thử các chức năng chính của website **Cocoon**.  
